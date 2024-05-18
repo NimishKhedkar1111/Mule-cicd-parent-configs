@@ -138,4 +138,12 @@
 		</pluginRepository>
 	</pluginRepositories>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>Mule-cicd-parent-configs</name>
+			<url>https://maven.pkg.github.com/NimishKhedkar1111/Mule-cicd-parent-configs</url>
+		</repository>
+	</distributionManagement>
+
 </project>
